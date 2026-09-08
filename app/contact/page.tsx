@@ -16,7 +16,7 @@ export default function Contact() {
         <p>
           Have a question, suggestion, or just want to say hello? Reach out
           anytime at{' '}
-          <a href="mailto:youremail@example.com">joelolumeka@gmail.com</a>.
+          <a href="mailto: joelolumeka@gmail.com">joelolumeka@gmail.com</a>.
         </p>
       </div>
     </div>
